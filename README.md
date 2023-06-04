@@ -4,6 +4,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+
+
+GO for live website : https://imdb-clone-bxwccpb4f-skyknew.vercel.app/
+
+
+
 ```bash
 npm run dev
 # or
